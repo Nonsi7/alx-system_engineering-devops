@@ -7,4 +7,4 @@ Simple web stack - details
 Distributed web infrastructure - details
 Secured and monitored web infrastrucure - details
 Scaled up web infrastructure - details
-https://drive.google.com/file/d/1lsRvnlfpQoQrV9N9ZXQZ0YySyVtTe3Ho/view?usp=sharing
+
